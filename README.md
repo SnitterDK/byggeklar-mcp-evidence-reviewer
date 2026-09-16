@@ -1,3 +1,5 @@
+> **Source package:** Download `ByggeKlar-MCP-professional-source-2026-09-16.zip` from this repository and extract it first. Run the standalone quick-start commands below from the extracted directory containing `http_server.py`. The historical `devpost/byggeklar-mcp/` paths refer to the original workspace; omit that prefix in the extracted standalone package. No paid account or API key is required.
+
 # ByggeKlar · MCP Evidence Reviewer
 
 **Clearer preparation. Better questions. Human decisions.**
